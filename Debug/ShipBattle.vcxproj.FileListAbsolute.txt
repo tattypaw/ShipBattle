@@ -1,0 +1,2 @@
+C:\Users\mvideo\source\repos\ShipBattle\Debug\ShipBattle.exe
+C:\Users\mvideo\source\repos\ShipBattle\Debug\ShipBattle.pdb
